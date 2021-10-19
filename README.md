@@ -1,19 +1,11 @@
-# Proyecto_Imagenes
-Código donde se encuentra la metodología llevada a cabo para obtener los resultados y realizar el análisis respectivo.
-
-
-
-
-# Título del Proyecto
-
-Object Movement Detection of UAV Video
+# Object Movement Detection of UAV Video
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Asimismo, te permitira corroborar los datos mostrados en el informe final sobre la metodologia y los resultados. 
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+Mira **Pre-requisitos e instalacion** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
@@ -26,14 +18,14 @@ Google Colab
 
 ### Instalación 🔧
 
-_Para la prueba de los dos metodos se debe descagar el archivo.zip de github_
+_Para la prueba de los dos metodos se debe descagar el archivo.zip de github._
 
-_Despues de esto, se abre el proyecto en pycharm de cada una de las carpetas individualmente.
+_Despues de esto, se abre el proyecto en pycharm de cada una de las carpetas individualmente._
 
-_Y por ultimo se corre el archivo... PONER EL ARCHIVO TANTO YOLO COMO BACKGROUND SUSBTRACTION_
+_Y por ultimo se corre el archivo... PONER EL ARCHIVO TANTO YOLO COMO BACKGROUND SUSBTRACTION._
 
 
-### Analice las pruebas end-to-end 🔩
+### Datos obtenidos y metricas. 🔩
 
 _Explica que verifican estas pruebas y por qué, Tablas obtenidas y las dos imagenes que son el collage._
 
@@ -45,13 +37,11 @@ Da un ejemplo
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
+* [Auairdataset](https://github.com/bozcani/auairdataset) - El dataset utilizado.
+* [YoloV3](https://github.com/ultralytics/yolov3) - Red neuronal del estado del arte.
+* [Background Propagation](https://core.ac.uk/download/pdf/55245719.pdf) - Metodo tradicional para la deteccion de objetos.
 
 ## Autores ✒️
-
 
 * **Ismael Vega** - *Contribuidor* - [Ismael V](https://github.com/villanuevand)
 * **Sergio Andres Mejia Osorio** - *Contribuyente y programador* - [Sergio M](https://github.com/sergioaom31)
