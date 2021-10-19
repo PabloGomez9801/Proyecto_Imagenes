@@ -43,7 +43,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores ✒️
 
-* **Ismael Vega** - *Contribuidor* - [Ismael V](https://github.com/villanuevand)
+* **Ismael Vega** - *Contribuyente* - [Ismael V](https://github.com/villanuevand)
 * **Sergio Andres Mejia Osorio** - *Contribuyente y programador* - [Sergio M](https://github.com/sergioaom31)
 * **Pablo Andres Gomez Toloza** - *Contribuyente y programador* - [Pablo G](https://github.com/PabloGomez9801)
 
