@@ -13,7 +13,7 @@ _Dado que los dos metodos, tanto tradicional, como la red se desarrollaron e imp
 
 ```
 Pycharm.
-Google Colab
+Google Colab.
 ```
 
 ### Instalación 🔧
