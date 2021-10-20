@@ -54,7 +54,7 @@ Tal y como se observa, los resultados de los dos metodos son muy similiares, lle
 
 ==========================
 
-Por otro lado, se realizo unas mediciones de la efectividad de cada metodo, con las siguientes metricas:
+Asimismo, se realizó unas mediciones de la efectividad de cada metodo, con las siguientes metricas:
 TABLA
 ```
 Da un ejemplo
