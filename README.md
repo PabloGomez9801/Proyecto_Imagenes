@@ -56,13 +56,14 @@ Tal y como se observa, los resultados de los dos metodos son muy similiares, lle
 
 ==========================
 
-Asimismo, se realizó unas mediciones de la efectividad de cada metodo, con las siguientes metricas:
-TABLA
-```
-Da un ejemplo
-```
+Para realizar la métrica, se escogieron 4 vídeos en los cuales se analizaron para cada uno un instante de tiempo para calcular la precisión y eficiencia del método que se estaba utilizando para esta prueba, usamos primero el método de YOLO y  el método tradicional Background subtraction. En la Tabla 1 y Tabla 2 podemos observar los resultados obtenidos para el método de YOLO y para Background subtraction respectivamente.
 
-Obteniendo de esta manera, valores.. TERMINAR
+La primera métrica, la cual nombramos precisión, consiste en identificar el numero de objetos que se encontraban efectivamente en movimiento y cuantos de estos se lograron detectar, teniendo en cuenta que si se detecta un objeto en movimiento que no se encuentra es un error que se tuvo en cuenta para el valor calculado de acertado. 
+
+Por ultimo, se calculó la eficiencia de los metodos, por medio de la observacion de la calidad de posicionamiento de cuadros delimitadores que existen en cada objeto, es decir, a medida que aumenta el numero de cuadros, menor el numero de eficiencia del metodo. 
+
+![Tabla de Metricas](Tabla.png)
+
 
 ## Construido con 🛠️
 
