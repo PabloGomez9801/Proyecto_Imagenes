@@ -39,7 +39,7 @@ _Y por ultimo se corre el archivo
 
 _Explica que verifican estas pruebas y por qué, Tablas obtenidas y las dos imagenes que son el collage._
 
-IMAGENES DE COMPARACION
+![Resultado Red Neuronal](datosobtenidosyolos.png)
 
 La imagen de la derecha son los resultados obtneidos por la red neuronal Yolo V3 que ya fue pre entrenada en [Auairdataset](https://github.com/bozcani/auairdataset), y la parte de la izquierda son los resultados obtenidos por el sistema propuesto por medio del metodo tradicional background substraction.
 Tal y como se observa, los resultados de los dos metodos son muy similiares, llegando a la conclusion que apartir de un metodo tradicional es posible competir con los resultados de una red entrenada por 3000 epocas con la necesidad de tener un nivel de computo alto.
