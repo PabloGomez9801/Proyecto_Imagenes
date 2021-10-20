@@ -14,14 +14,18 @@ auairdataset = AUAIR(annotation_file=annotFile, data_folder = dataDir)
 ##############################################################
       #MOSTRAR LAS IMAGENES YA CON LA CLASIFICACION#
 ##############################################################
-for i in range(10,23):
+for i in range(1,3):
     # Always 13 frames
     #print("Display image which has index %d:" %i) #opcion de seleccionar frame para detectar por medio de index
     #auairdataset.display_bboxes(i)
-    # ret_name = "frame_20190905091750_x_00002"+str(i)+".jpg"
-    #ret_name = "frame_20190905103112_x_00015"+str(i)+".jpg"
-    ret_name = "frame_20190905142119_x_00013" + str(i) + ".jpg"
-    #ret_name = "frame_20190905103112_x_00015"+str(i)+".jpg"
+    #ret_name = "frame_20190905091750_x_00048" + str(i) + ".jpg" #Video 2
+    #ret_name = "frame_20190905103112_x_00022"+str(i)+".jpg" #Video 3
+    #ret_name = "frame_20190905111947_x_00003" + str(i) + ".jpg"  # Video 4
+    #auairdataset.display_bboxes(ret_name)
+    #ret_name = "frame_20190905112522_x_000219"+str(i)+".jpg" #Video 5.1
+    #ret_name = "frame_20190905112522_x_000220"+str(i)+".jpg" # Video 5.2
+    ret_name = "frame_20190905112522_x_000220"+str(i)+".jpg" # Video 5.3-5.4
+
     auairdataset.display_bboxes(ret_name)
 
 print("Done")
