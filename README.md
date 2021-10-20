@@ -53,6 +53,7 @@ Por otro lado, estos fueron los datos obtenidos por medio del metodo tradicional
 Tal y como se observa, los resultados de los dos metodos son muy similiares, llegando a la conclusion que apartir de un metodo tradicional es posible competir con los resultados de una red entrenada por 3000 epocas con la necesidad de tener un nivel de computo alto.
 
 ==========================
+
 Por otro lado, se realizo unas mediciones de la efectividad de cada metodo, con las siguientes metricas:
 TABLA
 ```
