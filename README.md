@@ -24,7 +24,7 @@ _Asimismo, es necesario descargar estos dos archivos por aparte, los cuales son:
 
 [Auairdataset-Raw](https://github.com/bozcani/auairdataset) - El dataset utilizado para el entrenamiento de Yolo
 
-![Dataset](video.gif)
+![Dataset](Video.gif)
 
 [Auairdataset-Postprocesamiento](https://drive.google.com/drive/folders/1bsXkyk1JLjywaGp_BLyiqbAkcDoaK53v?usp=sharing) - El dataset utilizado para las pruebas de metodo tradicional.
 
