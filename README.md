@@ -30,7 +30,7 @@ _Despues de esto, se abre el proyecto en pycharm de cada una de las carpetas ind
 
 _Y por ultimo se corre el archivo
 
-[Pruebas Yolo](examples/main.py)
+[Pruebas Yolo](examples/Main.py)
 
 [Metodo tradicional](DIR)
 
