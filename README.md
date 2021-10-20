@@ -32,7 +32,7 @@ _Y por ultimo se corre el archivo
 
 [Pruebas Yolo](Proyecto_Imagenes/Red_neuronal/examples/Main.py)
 
-[Metodo tradicional](Metodo_Tradicional/main.py)
+[Metodo tradicional](Proyecto_Imagenes/Metodo_Tradicional/main.py)
 
 
 ### Datos obtenidos y metricas. 🔩
