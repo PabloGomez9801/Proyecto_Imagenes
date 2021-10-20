@@ -30,9 +30,9 @@ _Despues de esto, se abre el proyecto en pycharm de cada una de las carpetas ind
 
 _Y por ultimo se corre el archivo
 
-[Pruebas Yolo](Red neuronal/examples/Main.py)
+[Pruebas Yolo](/Red neuronal/examples/Main.py)
 
-[Metodo tradicional](Metodo Tradicional/main.py)
+[Metodo tradicional](/Metodo Tradicional/main.py)
 
 
 ### Datos obtenidos y metricas. 🔩
