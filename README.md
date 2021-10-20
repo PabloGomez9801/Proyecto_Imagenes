@@ -45,7 +45,7 @@ En esta imagen, se observan las diferentes detecciones de movimientos realizadas
 
 ========================
 
-![Resultado Metodo Tradicional](datosobtenidosyolos.png)
+![Resultado Metodo Tradicional](datosobtenidostradicional.png)
 
 Por otro lado, estos fueron los datos obtenidos por medio del metodo tradicional de backgroudn substraction. 
 
