@@ -39,7 +39,7 @@ _Y por ultimo se corre el archivo
 
 _Explica que verifican estas pruebas y por qué, Tablas obtenidas y las dos imagenes que son el collage._
 
-![Resultado Red Neuronal](datosobtenidosyolos.png {width=5px height=5px})
+![Resultado Red Neuronal](datosobtenidosyolos.png)
 
 En esta imagen, se observan las diferentes detecciones de movimientos realizadas por la red neuronal Yolo V3 que ya fue pre entrenada en [Auairdataset](https://github.com/bozcani/auairdataset).
 
